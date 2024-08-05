@@ -1,0 +1,77 @@
+body{
+    background-image: url(file:///C:/Users/Royal%20Gostar/Videos/HD-wallpaper-blue-stone-background-stone-texture-grunge-blue-background-creative-blue-texture-thumbnail.jpg);
+}
+.navbar{
+    background-color: rgb(2, 2, 40);
+    float: left;
+    display: flexbox;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    width: 120px;
+    height: 100%;
+}
+.prograph{
+    margin-right: 125px;
+    color: aliceblue;
+}
+.photo{
+    margin: auto;
+    border: 2px solid rgb(22, 176, 182);
+    padding: 20px 50px;
+    background-size: cover;
+}
+.img{
+    text-align: center;
+    justify-content: center;
+    margin-right: 12%;
+}
+.ubw{
+    background-image: url(images2.jpg);
+
+}
+.ubw:hover{
+    background-image: url();
+}
+.heavens{
+    background-image: url(images4.jpg);
+}
+.heavens:hover{
+    background-image: url();
+}
+.garden{
+    background-image: url(images3.jpg);
+}
+.garden:hover{
+    background-image: url();
+}
+.lord{
+    background-image: url(images5.jpg);
+}
+.lord:hover{
+    background-image: url();
+}
+.grand{
+    background-image: url(images8.jpg);
+}
+.grand:hover{
+    background-image: url();
+}
+.strong{
+    background-image: url(images1.jpg);
+}
+.strong:hover{
+    background-image: url();
+}
+.zero{
+    background-image: url(images.jpg);
+}
+.zero:hover{
+    background-image: url();
+}
+.apocripha{
+    background-image: url(images7.jpg);
+}
+.apocripha:hover{
+    background-image: url();
+}
